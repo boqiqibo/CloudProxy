@@ -1,0 +1,6 @@
+{
+  "name": "http-proxy",
+  "version": "1.0.0",
+  "description": "CloudBase HTTP proxy cloud function",
+  "main": "index.js"
+}
